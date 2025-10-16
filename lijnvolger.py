@@ -1,4 +1,4 @@
-# Lijnvolger in het Nederlands (simpel)
+
 # - Sensor: A0..A4 = [L1, L2, M, R2, R1]
 # - Volgt rustig, rijdt terug als hij de lijn kwijt is
 # - Minder “heen-en-weer” sturen (dode zone + trim)
